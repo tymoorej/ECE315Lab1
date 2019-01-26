@@ -174,7 +174,7 @@ void	Task1Main( void * pd) {
 }
 
 /* Name: Task2Main
- * Description:
+ * Description: Displays the bitimage on the 3rd and 4th lines
  * Inputs:  void * pd -- pointer to generic data . Currently unused.
  * Outputs: none
  */
