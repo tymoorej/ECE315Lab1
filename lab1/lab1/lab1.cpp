@@ -146,7 +146,7 @@ void StartTask3(void) {
 }
 
 /* Name: Task1Main
- * Description:
+ * Description: Displays the bitimage on the first two lines
  * Inputs:  void * pd -- pointer to generic data . Currently unused.
  * Outputs: none
  */
