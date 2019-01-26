@@ -198,7 +198,7 @@ void Task2Main( void * pd) {
 }
 
 /* Name: Task3Main
- * Description:
+ * Description: Displays the bitimage on the last two lines
  * Inputs:  void * pd -- pointer to generic data . Currently unused.
  * Outputs: none
  */
